@@ -1,0 +1,10 @@
+# Ignore everything
+*
+
+# Allow .java, .python, and .c files
+!**/*.java
+!**/*.python
+!**/*.c
+
+# Allow .gitignore itself
+!.gitignore
