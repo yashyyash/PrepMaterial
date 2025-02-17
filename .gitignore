@@ -1,6 +1,3 @@
-# Ignore everything
-*
-
 # Allow .java, .python, and .c files
 !**/*.java
 !**/*.python
